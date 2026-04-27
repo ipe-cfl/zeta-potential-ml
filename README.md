@@ -4,6 +4,17 @@ A lightweight Python project for predicting zeta potential in millivolts (mV) wi
 
 This README is written for a normal GitHub repository, not for a Hugging Face Space. It intentionally does not include Hugging Face Spaces front matter.
 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-yellow)](https://huggingface.co/spaces/ipe-cfl/zeta-potential-ml-demo)
+
+## Live demo
+
+You can try the model without installing anything by using the hosted Hugging Face Space:
+
+[Open the Zeta Potential ML Demo](https://huggingface.co/spaces/ipe-cfl/zeta-potential-ml-demo)
+
+Use the demo for quick, interactive predictions. Use this GitHub repository when you want to inspect the source code, run the app locally, or use the Python prediction API in your own workflow.
+
 ## Features
 
 - Interactive local web UI built with Gradio.
