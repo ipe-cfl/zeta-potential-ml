@@ -248,7 +248,12 @@ The concentration and surface charge density units must match the units used dur
 
 ## License
 
-The original Hugging Face Space metadata declared the project license as Apache-2.0. If publishing this project on GitHub, add a `LICENSE` file containing the Apache License 2.0 text or replace this section with the correct license for your repository.
+This project is licensed under the Apache License, Version 2.0 (`Apache-2.0`).
+
+See the [`LICENSE`](LICENSE) file for the full license text.
+
+Unless required by applicable law or agreed to in writing, software distributed under this license is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
 
 ## Citation
 
